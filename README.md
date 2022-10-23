@@ -2,6 +2,10 @@
 
 The goal of this exercise will be to use React Router to build an app that lets you view colors and add new colors.
 
+## Link
+
+- Live Site URL: [https://saadmalik200.github.io/color-factory-react/](https://saadmalik200.github.io/color-factory-react/)
+
 **User Stories**.
 
 1.  As a user, I can go to `/colors` to see a list of all available colors.
