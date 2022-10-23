@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-factory-react/static/css/main.5adf2b53.css",
+    "main.js": "/color-factory-react/static/js/main.a07067a6.js",
+    "index.html": "/color-factory-react/index.html",
+    "main.5adf2b53.css.map": "/color-factory-react/static/css/main.5adf2b53.css.map",
+    "main.a07067a6.js.map": "/color-factory-react/static/js/main.a07067a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5adf2b53.css",
+    "static/js/main.a07067a6.js"
+  ]
+}
